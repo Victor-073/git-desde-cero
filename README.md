@@ -9,6 +9,7 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 
 - [Curso en Platzi](https://platzi.com/cursos/git-github/)
 - [Curso en EDteam](https://ed.team/cursos/git)
+- [Curso en team](https://ed.team/cursos/git)
 - [Curso de Udemy](https://www.udemy.com/git-y-github-completo-desde-cero/)
 - [Curso de DevCode](https://devcode.la/cursos/git/)
 
@@ -55,5 +56,6 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Noelia Rodríguez https://github.com/noeunla
 - Cesar Alvarez https://github.com/Cesar98
 - Brayan Moreno https://github.com/YoooBrayan
-- Josel Toro https://github.com/ctec105
+- Josel Toro https://github.com/ctec105 
 - Alan Cristian Martinez Genaro:  https://github.com/AlanCristianMartinezGenaro
+- Victor Solares Sanchez https://github.com/Victor-073
